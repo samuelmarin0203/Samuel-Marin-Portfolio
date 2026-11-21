@@ -1,0 +1,375 @@
+{
+  "lang": "es",
+  "meta": {
+    "title": "Samuel Marín Muñoz | Financial Audit Senior en EY & Candidato a Gestión de Activos",
+    "description": "Portfolio profesional de Samuel Marín Muñoz. Senior de Auditoría Financiera en EY (Madrid), candidato al Máster en Mercados Financieros y Gestión de Activos (IEB). Track record de renta variable, metodologías Value Investing y CANSLIM, e investigación econométrica."
+  },
+  "nav": {
+    "track_record": "Track Record",
+    "methodology": "Metodología",
+    "skills": "Aptitudes",
+    "research": "Investigación (TFG)",
+    "experience": "Experiencia",
+    "contact": "Contacto",
+    "linkedin_aria": "Visitar perfil de LinkedIn de Samuel Marín Muñoz",
+    "theme_toggle_dark": "Cambiar a modo oscuro",
+    "theme_toggle_light": "Cambiar a modo claro"
+  },
+  "hero": {
+    "badge": "Transición hacia Gestión de Activos & Mercados Financieros",
+    "headline": "Rigor contable, valoración fundamental, análisis de tendencias de mercado, conocimiento de herramientas de IA y modelización financiera aplicada a la renta variable y finanzas corporativas.",
+    "cta_track_record": "Ver track record",
+    "cta_linkedin": "Perfil de LinkedIn",
+    "cta_cv": "Descargar CV (PDF)"
+  },
+  "institutions": {
+    "title": "Instituciones Vinculadas",
+    "ey": "EY (Ernst & Young) — Financial Audit Senior",
+    "ieb": "IEB — Máster en Mercados Financieros & Gestión de Activos",
+    "uam": "Universidad Autónoma de Madrid — Grado en Economía"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Perfil Profesional & Criterio Analítico",
+    "content": "Rigor contable, valoración fundamental, análisis de tendencias de mercado, conocimiento de herramientas de IA y modelización financiera aplicada a la renta variable y finanzas corporativas. Como Senior de Auditoría Financiera en EY (Madrid) en clientes del sector energético y participadas de Private Equity (incluidos Verbund Group y Shell), cuento con una sólida experiencia en el análisis y revisión de estados financieros bajo NIIF-UE y PGC, inmovilizado material, asignación de CAPEX, instrumentos financieros, reconocimiento de ingresos (NIIF 15) y procesos de due diligence. Graduado en Economía por la Universidad Autónoma de Madrid, complemento esta trayectoria con el Máster en Mercados Financieros y Gestión de Activos en el IEB y el programa conjunto EY-ICADE, aportando un criterio disciplinado de asignación de capital combinando Value Investing y CANSLIM."
+  },
+  "track_record": {
+    "title": "Track Record de Inversiones",
+    "subtitle": "Operaciones Reales en Renta Variable",
+    "disclaimer_note": "Posiciones reales ejecutadas. Rentabilidades calculadas sobre precio de venta / valoración al momento de liquidación o balance del extracto. Documentación auditable disponible bajo petición.",
+    "legend_position": "Posición",
+    "legend_benchmark": "Benchmark",
+    "kpi": {
+      "positions_count": "Posiciones Analizadas",
+      "win_rate": "% Aciertos",
+      "avg_return": "Rentabilidad Media",
+      "avg_alpha": "Alfa vs Benchmark",
+      "sample_notice": "Posiciones Reales Verificadas"
+    },
+    "filters": {
+      "all": "Todos",
+      "sector": "Sector",
+      "sector_all": "Todos los sectores",
+      "year": "Año",
+      "year_all": "Todos los años",
+      "outcome": "Resultado",
+      "outcome_all": "Todos los resultados",
+      "outcome_winners": "Ganadoras",
+      "outcome_lessons": "Disciplina Stop-Loss / Lecciones"
+    },
+    "chart_title": "Rendimiento Real por Posición vs Benchmark",
+    "labels": {
+      "sample_badge": "POSICIÓN REAL",
+      "lesson_badge": "Disciplina Stop-Loss",
+      "ticker": "Ticker",
+      "company": "Compañía",
+      "sector": "Sector",
+      "country": "País",
+      "entry_date": "Entrada",
+      "exit_date": "Venta / Salida",
+      "open_position": "Venta Parcial / Abierta",
+      "entry_price": "Precio entrada",
+      "exit_price": "Precio venta",
+      "return": "Rentabilidad obtenida",
+      "benchmark": "Benchmark",
+      "alpha": "Diferencial Alfa",
+      "view_details": "Ver tesis y desglose de ejecución",
+      "close_modal": "Cerrar ventana"
+    },
+    "modal": {
+      "title_suffix": "Tesis y Desglose Operativo",
+      "tab_thesis": "Tesis de Inversión",
+      "tab_catalysts": "Catalizadores & Riesgos",
+      "tab_lessons": "Gestión del Riesgo & Lección Extraída",
+      "tab_chart": "Gráfico de Precios con Puntos de Entrada y Venta",
+      "catalysts_title": "Catalizadores Identificados",
+      "risks_title": "Riesgos Monitorizados",
+      "lessons_title": "Disciplina de Ejecución & Control del Riesgo"
+    }
+  },
+  "investments": {
+    "pos-indra": {
+      "thesis": "Tesis de revalorización en defensa y digitalización aeroespacial. Expansión estructural de los presupuestos de defensa europeos, sólida cartera de pedidos respaldada por contratos gubernamentales a largo plazo y mejora continua en el apalancamiento operativo con márgenes EBIT al alza.",
+      "catalysts": [
+        "Aumento comprometido del gasto europeo en seguridad y defensa OTAN hacia el 2% del PIB.",
+        "Monetización acelerada de contratos tecnológicos clave en tráfico aéreo y sistemas de ciberdefensa."
+      ],
+      "risks": [
+        "Retrasos en la ejecución de programas de defensa paneuropeos (FCAS).",
+        "Riesgo de gobernanza e interferencia regulatoria estatal en la toma de decisiones estratégicas."
+      ],
+      "lessons_learned": "La alineación de un catalizador macroestructural (seguridad europea) con balances saneados permite capturar un alfa superior al 30% frente al índice de referencia."
+    },
+    "pos-aapl": {
+      "thesis": "Poder de fijación de precios hegemónico, foso económico inexpugnable por costes de cambio en el ecosistema iOS y aceleración de ingresos en la división de Servicios con márgenes brutos superiores al 70%. Programa masivo de recompras de acciones respaldado por un Free Cash Flow anual predecible.",
+      "catalysts": [
+        "Ciclo masivo de actualización de hardware impulsado por Apple Intelligence integrado en iOS.",
+        "Expansión del margen bruto impulsado por el peso creciente de servicios y suscripciones de alto valor añadido."
+      ],
+      "risks": [
+        "Presión antimonopolio del Departamento de Justicia y escrutinio sobre la comisión de la App Store en la UE.",
+        "Maduración en los volúmenes globales de envíos de smartphones en mercados clave como China."
+      ],
+      "lessons_learned": "En compañías de calidad extrema (Quality Compounders), las ventas escalonadas en momentos de máxima fuerza de mercado aseguran rentabilidades sólidas preservando la exposición al ciclo de innovación."
+    },
+    "pos-tsm": {
+      "thesis": "Monopolio indiscutible a nivel mundial en fundición de semiconductores avanzados (<3nm). Socio de manufactura crítico e insustituible para Nvidia, Apple y AMD, con un poder de fijación de precios reflejado en márgenes brutos superiores al 53% y un ROCE sostenido.",
+      "catalysts": [
+        "Despliegue a gran escala de infraestructura de aceleradores de IA en centros de datos hiperexpansivos.",
+        "Puesta en marcha de subsidios del US CHIPS Act y diversificación geográfica de fabs en Arizona y Japón."
+      ],
+      "risks": [
+        "Riesgo geopolítico latente en el estrecho de Taiwán y tensiones comerciales entre EE.UU. y China.",
+        "Capex extremadamente intensivo necesario para el desarrollo de la litografía angular en nodos de 2nm."
+      ],
+      "lessons_learned": "Identificar el cuello de botella físico de una revolución tecnológica (la fundición de chips) ofrece una asimetría de retorno superior a la de apostar por clientes finales con mayor volatilidad competitiva."
+    },
+    "pos-crdo": {
+      "thesis": "Posición de momentum y crecimiento acelerado (criterio CANSLIM). Proveedor clave de conectividad óptica SerDes de alta velocidad y cables eléctricos activos (AEC) para interconectar GPUs en clústeres de inteligencia artificial con ventajas de eficiencia energética.",
+      "catalysts": [
+        "Adopción masiva de cables AEC por parte de proveedores cloud tier-1 para sustituir fibra óptica tradicional en distancias cortas.",
+        "Sorpresas positivas recurrentes en el crecimiento interanual del beneficio por acción (>25% trimestral)."
+      ],
+      "risks": [
+        "Alta concentración de ingresos en un número reducido de grandes clientes de hiperescala.",
+        "Volatilidad propia de compañías de mediana capitalización en fases tempranas de hipercrecimiento."
+      ],
+      "lessons_learned": "La metodología CANSLIM permite capturar rentabilidades de doble dígito en ventanas temporales muy cortas cuando la aceleración de ingresos coincide con una acumulación institucional visible."
+    },
+    "pos-ko": {
+      "thesis": "Tesis Value por excelencia: demanda inelástica, marca global insustituible y fortaleza probada para transferir inflación a precios sin erosionar volumen de venta. Balances con bajo riesgo de solvencia, generación de caja recurrente y rentabilidad por dividendo constante.",
+      "catalysts": [
+        "Ganancia de cuota en mercados emergentes y optimización del mix de productos hacia opciones sin azúcar.",
+        "Revalorización relativa en entornos de incertidumbre macroeconómica y tipos de interés restrictivos."
+      ],
+      "risks": [
+        "Impacto del encarecimiento de materias primas de packaging (aluminio, PET).",
+        "Efecto adverso por depreciación de divisas emergentes en la consolidación contable de ingresos."
+      ],
+      "lessons_learned": "La renta variable defensiva cumple una función crucial de amortiguación de cartera y preservación de capital, permitiendo desinvertir con plusvalías cuando surgen oportunidades de mayor crecimiento."
+    },
+    "pos-meta": {
+      "thesis": "Combinación de Value y CANSLIM: reanudación del crecimiento de doble dígito en ingresos publicitarios, monetización de nuevos formatos y aumento de márgenes operativos gracias a la disciplina en costes.",
+      "catalysts": [
+        "Mayor retorno de inversión para anunciantes mediante modelos predictivos de recomendación basados en IA.",
+        "Monetización acelerada de mensajería empresarial en WhatsApp y Click-to-Message."
+      ],
+      "risks": [
+        "Inversión de capital intensiva en investigación de infraestructura de cómputo y metaverso.",
+        "Riesgo de regulación antimonopolio y restricciones sobre privacidad de datos de usuarios."
+      ],
+      "lessons_learned": "En tecnológicas de gran capitalización, la aceleración de márgenes impulsada por eficiencias operativas y recompras de acciones crea excelentes ventanas para asegurar rentabilidades de doble dígito."
+    },
+    "pos-be": {
+      "thesis": "Operación táctica de crecimiento en transición energética y generación in-situ con pilas de combustible de óxido sólido. La pérdida de impulso técnico y desaceleración de volumen recomendaron cerrar la posición.",
+      "catalysts": [
+        "Crecimiento en la demanda de energía ininterrumpida para centros de datos de IA.",
+        "Nuevos acuerdos de suministro comercial en microredes industriales."
+      ],
+      "risks": [
+        "Elevado consumo de capital y márgenes operativos volátiles.",
+        "Riesgo de retraso en la adopción masiva comercial del hidrógeno."
+      ],
+      "lessons_learned": "Disciplina de control del riesgo: ante la debilidad en el volumen negociado, se ejecutó una salida preventiva con una pérdida muy baja (-3.21%), demostrando que cortar pérdidas a tiempo preserva la liquidez de la cartera."
+    },
+    "pos-exi2": {
+      "thesis": "Exposición indexada diversificada a los 50 mayores gigantes corporativos globales. Se optó por una desinversión táctica para reasignar el capital hacia posiciones de mayor convicción individual (Indra y Apple).",
+      "catalysts": [
+        "Crecimiento sostenido del beneficio operativo de megacaps tecnológicas y sanitarias.",
+        "Resiliencia macroeconómica del consumo global."
+      ],
+      "risks": [
+        "Correlación elevada con la política monetaria de tipos de interés de la Fed y el BCE.",
+        "Coste de oportunidad frente a ideas individuales de alta convicción."
+      ],
+      "lessons_learned": "Reasignación ágil de capital: la desinversión táctica controlada (-12.26%) permitió liberar liquidez para concentrar la cartera en compañías con catalizadores de doble dígito."
+    },
+    "pos-msft": {
+      "thesis": "Liderazgo en computación en la nube (Azure) e integración pionera de modelos generativos de IA en la suite de productividad empresarial. Sin embargo, la exigencia en múltiplos y la aceleración desmedida del capex en centros de datos activaron una señal de prudencia.",
+      "catalysts": [
+        "Monetización masiva de licencias Copilot en la base de clientes comerciales de Microsoft 365.",
+        "Crecimiento interanual de Azure superando las expectativas del consenso."
+      ],
+      "risks": [
+        "Desaceleración temporal del retorno sobre el capital invertido por el volumen récord de capex en IA.",
+        "Pérdida de tracción técnica en el precio de la acción perforando medias móviles clave."
+      ],
+      "lessons_learned": "Criterio CANSLIM y gestión estricta del riesgo: la regla de oro de cortar pérdidas antes del 7-8% protegió la cartera de una corrección mayor. En gestión profesional de activos, reconocer rápidamente que el momentum se debilita preserva el capital para mejores oportunidades."
+    }
+  },
+  "methodology": {
+    "title": "Metodología de Inversión",
+    "subtitle": "Dos Enfoques Complementarios",
+    "lead": "El criterio analítico de la cartera se fundamenta en la combinación sinérgica de dos filosofías probadas de inversión:",
+    "value_title": "1. Value Investing (Análisis Fundamental & Margen de Seguridad)",
+    "value_subtitle": "Preservación estricta de capital y valoración intrínseca con rigor contable",
+    "value_pillars": [
+      {
+        "title": "Escrutinio Contable & Calidad del Beneficio",
+        "desc": "Auditoría en profundidad de los tres estados financieros bajo IFRS/NIIF: revisión de inmovilizado, reconocimiento de ingresos (NIIF 15), pasivos por arrendamiento (NIIF 16) y reconciliación de Free Cash Flow frente a EBITDA reportado."
+      },
+      {
+        "title": "Valoración Intrínseca & Descuento de Flujos (DCF)",
+        "desc": "Modelización financiera rigurosa con escenarios de sensibilidad macroeconómica y múltiplos históricos normalizados de ciclo completo."
+      },
+      {
+        "title": "Ventajas Competitivas Duraderas (Economic Moats)",
+        "desc": "Búsqueda de empresas con elevados retornos sobre el capital empleado (ROCE/ROIC > 15%), poder de fijación de precios demostrable y balances desapalancados (Deuda Neta / EBITDA < 1.5x)."
+      },
+      {
+        "title": "Margen de Seguridad Exigente",
+        "desc": "Entrada en posiciones únicamente cuando la cotización de mercado ofrece un descuento sustancial frente al valor intrínseco estimado, minimizando el riesgo permanente de pérdida de capital."
+      }
+    ],
+    "canslim_title": "2. CANSLIM (Crecimiento Sistemático & Momentum Institucional)",
+    "canslim_subtitle": "Captura de compañías líderes en aceleración de beneficios y demanda institucional",
+    "canslim_items": [
+      {
+        "letter": "C",
+        "name": "Current Quarterly Earnings",
+        "desc": "Aceleración interanual del beneficio por acción (BPA) trimestral superior al 20-25% acompañado de fuerte crecimiento en ventas."
+      },
+      {
+        "letter": "A",
+        "name": "Annual Earnings Growth",
+        "desc": "Crecimiento anual compuesto del beneficio en los últimos 3 a 5 años, demostrando escalabilidad y calidad operativa."
+      },
+      {
+        "letter": "N",
+        "name": "New Product, Service or Highs",
+        "desc": "Existencia de catalizadores disruptivos: nuevos productos, cambios estratégicos de directiva o superación de máximos históricos."
+      },
+      {
+        "letter": "S",
+        "name": "Supply and Demand",
+        "desc": "Dinámica de oferta y demanda: acumulación con volumen negociado inusual en días de subida y flotante de acciones controlado."
+      },
+      {
+        "letter": "L",
+        "name": "Leader or Laggard",
+        "desc": "Inversión exclusiva en el líder sectorial con mayor fuerza relativa (Relative Strength), descartando competidores rezagados."
+      },
+      {
+        "letter": "I",
+        "name": "Institutional Sponsorship",
+        "desc": "Patrocinio institucional de calidad: fondos de inversión y gestoras reputadas incrementando su peso en el capital."
+      },
+      {
+        "letter": "M",
+        "name": "Market Direction & Stop-Loss",
+        "desc": "Alineación con la tendencia general del mercado y aplicación inflexible de corte de pérdidas (stop-loss estricto en el 7-8%)."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Aptitudes & Competencias",
+    "subtitle": "Capacidades Clave",
+    "hard_title": "Análisis Financiero & Cuantitativo",
+    "hard_items": [
+      "Auditoría y Revisión Contable bajo Normativa NIIF-UE / IFRS y PGC (NIIF 9, 15 y 16)",
+      "Modelización Financiera Avanzada, DCF, Múltiplos de Cotización y Fundamentos de LBO",
+      "Auditoría Contable, Asignación de CAPEX y Evaluación de la Calidad del Beneficio",
+      "Reconciliación de Estados de Flujos de Efectivo, Capital Circulante y Control Interno",
+      "Herramientas Técnicas: Bloomberg, Excel Avanzado (Escenarios), Python y Soluciones de IA"
+    ],
+    "soft_title": "Criterio de Inversión & Rigor Profesional",
+    "soft_items": [
+      "Filosofía de Preservación de Capital y Disciplina de Salida (Value + CANSLIM)",
+      "Interlocución Técnica y Escrutinio con Direcciones Financieras, CFOs y Comités",
+      "Experiencia en Procesos de Due Diligence y Evaluación de Riesgos Financieros",
+      "Criterio Analítico Independiente para la Detección de Sesgos Contables y de Mercado",
+      "Capacidad de Juicio en Operaciones Corporativas y Mercados de Capitales"
+    ]
+  },
+  "research": {
+    "title": "Trabajo de Fin de Grado & Tesis de Investigación",
+    "subtitle": "Investigación Econométrica Destacada",
+    "tfg_badge": "Trabajo de Fin de Grado (UAM)",
+    "tfg_title": "Criptomonedas como refugio contra la inflación: Un análisis empírico con datos de panel y series temporales (2017–2024)",
+    "tfg_meta": "Autor: Samuel Felipe Marín Muñoz | Tutora: Marta Felis Rota | Universidad Autónoma de Madrid (Facultad de CC. Económicas y Empresariales)",
+    "abstract_title": "Resumen Ejecutivo de la Tesis",
+    "abstract_text": "Investigación empírica y econométrica que analiza si los criptoactivos (con foco en Bitcoin) pueden considerarse instrumentos de cobertura y reserva de valor frente a tensiones inflacionistas e incertidumbre económica global, comparándolos con activos refugio tradicionales como el oro y los bonos soberanos. El estudio procesa una base de datos de 211 países entre 2017 y 2024 combinando datos del Banco Mundial y Statista.",
+    "methodology_title": "Metodología Econométrica Aplicada",
+    "methodology_items": [
+      "Modelos de Regresión de Datos de Panel con Efectos Fijos (controlando por efectos no observables de país y año).",
+      "Técnicas de Mínimos Cuadrados Ordinarios (MCO) y modelos de series temporales ARIMA.",
+      "Winsorización de la variable de inflación al 1% y 99% para eliminar el sesgo de valores atípicos extremos.",
+      "Segmentación de la muestra mundial por mediana de PIB per cápita (países con alto vs. bajo PIB) e interacción matemática entre Inflación y PIB."
+    ],
+    "conclusions_title": "Conclusiones Clave de la Investigación",
+    "conclusions_items": [
+      "En países de alto PIB per cápita, la interacción entre inflación y renta muestra un coeficiente positivo y estadísticamente significativo (p<0.01), evidenciando que los criptoactivos se utilizan como cobertura bajo condiciones macroeconómicas específicas.",
+      "La infraestructura tecnológica (servidores seguros de internet) y el acceso digital son predictores mucho más determinantes de la adopción que la mera tasa de inflación.",
+      "En economías de menor desarrollo relativo, las criptomonedas no sustituyen al oro ni a la deuda soberana como refugio, sino que funcionan como alternativa transaccional en ausencia de sistemas financieros tradicionales sólidos.",
+      "El oro continúa manteniendo una superioridad empírica demostrada como activo refugio de largo plazo, mientras que la volatilidad y la sensibilidad coyuntural de los criptoactivos limitan por ahora su equiparación total."
+    ]
+  },
+  "experience": {
+    "title": "Experiencia & Formación",
+    "subtitle": "Trayectoria Profesional",
+    "items": [
+      {
+        "period": "Noviembre 2026 – Diciembre 2027",
+        "status_badge": "En curso",
+        "role": "Máster en Mercados Financieros y Gestión de Activos",
+        "institution": "Instituto de Estudios Bursátiles (IEB) — Madrid, España",
+        "description": "Programa de posgrado especializado en gestión de carteras, valoración de renta variable y fija, derivados, macroeconomía, modelización financiera, estrategias de inversión y banca de inversión."
+      },
+      {
+        "period": "Enero 2025 – Actualidad",
+        "status_badge": "Posición actual",
+        "role": "Senior de Auditoría Financiera",
+        "institution": "Ernst & Young (EY) — Auditoría y Assurance (Madrid, España)",
+        "description": "Análisis financiero de clientes del sector energético y Private Equity (incluidos Verbund Group y Shell). Revisión de inmovilizado material, instrumentos financieros, asignación de CAPEX y reconocimiento de ingresos. Revisión de estados financieros individuales y consolidados bajo NIIF-UE y PGC, control interno y participación en procesos de Due Diligence."
+      },
+      {
+        "period": "Octubre 2025",
+        "status_badge": "Certificación conjunta",
+        "role": "Programa de Competencias Financieras y Contabilidad EY-ICADE",
+        "institution": "Universidad Pontificia Comillas ICAI-ICADE — Madrid, España",
+        "description": "Programa de alta cualificación centrado en competencias financieras avanzadas y contabilidad técnica aplicadas al entorno profesional."
+      },
+      {
+        "period": "Enero 2024 – Octubre 2026",
+        "status_badge": "Consultoría estratégica",
+        "role": "Consultor Financiero (Freelance)",
+        "institution": "Marín Ortega Consultores Jurídicos — Bogotá, Colombia",
+        "description": "Asesoramiento financiero y planificación corporativa para despacho boutique. Desarrollo de modelos financieros integrados (proyecciones de flujos de caja y planes de negocio), optimización de estructura financiera e identificación de creación de valor."
+      },
+      {
+        "period": "Septiembre 2021 – Junio 2025",
+        "status_badge": "Grado universitario",
+        "role": "Grado en Economía",
+        "institution": "Universidad Autónoma de Madrid (UAM) — Madrid, España",
+        "description": "Formación rigurosa en microeconomía, macroeconomía cuantitativa, econometría y teoría de mercados financieros. Análisis de Estados Financieros, Organización Industrial y Trabajo de Fin de Grado centrado en la modelización econométrica de activos frente a la inflación."
+      },
+      {
+        "period": "Febrero 2023 – Junio 2024",
+        "status_badge": "Prácticas de consultoría",
+        "role": "Becario en Consultoría Financiera",
+        "institution": "Diseños Resta S.L — Madrid, España",
+        "description": "Gestión y análisis financiero de una cartera de 15 empresas. Comparativa de desempeño, adecuación a NIIF/normativa contable, cumplimiento fiscal y cierres de ejercicio."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Comunicación Directa",
+    "lead": "Disponible para conversaciones profesionales con gestoras de activos, fondos de inversión y equipos de análisis fundamental tanto en España como en el extranjero.",
+    "email_label": "Correo electrónico",
+    "phone_label": "Teléfono de contacto",
+    "linkedin_label": "Perfil de LinkedIn",
+    "location_label": "Ubicación",
+    "location_val": "Madrid, España (Disponible para relocalización)",
+    "form_name": "Nombre completo",
+    "form_email": "Correo electrónico",
+    "form_subject": "Asunto",
+    "form_message": "Mensaje",
+    "form_submit": "Enviar consulta vía correo",
+    "direct_email_hint": "O si lo prefiere, contacte directamente a:"
+  },
+  "footer": {
+    "disclaimer": "Rentabilidades pasadas no garantizan resultados futuros. El contenido de este sitio web tiene carácter estrictamente informativo y no constituye oferta, solicitud ni asesoramiento financiero de inversión.",
+    "rights": "Todos los derechos reservados."
+  }
+}

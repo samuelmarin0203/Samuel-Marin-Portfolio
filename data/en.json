@@ -1,0 +1,375 @@
+{
+  "lang": "en",
+  "meta": {
+    "title": "Samuel Marín Muñoz | Financial Audit Senior at EY & Asset Management Candidate",
+    "description": "Professional portfolio of Samuel Marín Muñoz. Financial Audit Senior at EY (Madrid), candidate for the Master in Financial Markets and Asset Management (IEB). Public equity track record, Value Investing & CANSLIM methodologies, and empirical research."
+  },
+  "nav": {
+    "track_record": "Track Record",
+    "methodology": "Methodology",
+    "skills": "Skills",
+    "research": "Research (Thesis)",
+    "experience": "Experience",
+    "contact": "Contact",
+    "linkedin_aria": "Visit Samuel Marín Muñoz's LinkedIn profile",
+    "theme_toggle_dark": "Switch to dark mode",
+    "theme_toggle_light": "Switch to light mode"
+  },
+  "hero": {
+    "badge": "Transitioning to Asset Management & Capital Markets",
+    "headline": "Accounting rigor, fundamental valuation, market trend analysis, knowledge of AI tools, and financial modeling applied to equities and corporate finance.",
+    "cta_track_record": "View track record",
+    "cta_linkedin": "LinkedIn profile",
+    "cta_cv": "Download CV (PDF)"
+  },
+  "institutions": {
+    "title": "Associated Institutions",
+    "ey": "EY (Ernst & Young) — Financial Audit Senior",
+    "ieb": "IEB — Master in Financial Markets & Asset Management",
+    "uam": "Universidad Autónoma de Madrid — Economics Degree"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Professional Background & Investment Insight",
+    "content": "Accounting rigor, fundamental valuation, market trend analysis, knowledge of AI tools, and financial modeling applied to equities and corporate finance. As a Financial Audit Senior at EY (Madrid) specializing in energy sector clients and Private Equity portfolio companies (including Verbund Group and Shell), I hold extensive experience in auditing financial statements under EU-IFRS and Spanish GAAP, fixed assets, CAPEX allocation, financial instruments, revenue recognition (IFRS 15), and due diligence engagements. An Economics graduate from Universidad Autónoma de Madrid, I complement this background with the Master in Financial Markets and Asset Management at IEB and the joint EY-ICADE program, bringing a disciplined capital allocation framework blending Value Investing and CANSLIM."
+  },
+  "track_record": {
+    "title": "Investment Track Record",
+    "subtitle": "Real Equity Transactions",
+    "disclaimer_note": "Actual executed positions. Returns calculated based on exit price at liquidation or brokerage statement valuation. Verifiable documentation available upon request.",
+    "legend_position": "Position",
+    "legend_benchmark": "Benchmark",
+    "kpi": {
+      "positions_count": "Positions Analyzed",
+      "win_rate": "Win Rate",
+      "avg_return": "Average Return",
+      "avg_alpha": "Alpha vs Benchmark",
+      "sample_notice": "Verified Executed Positions"
+    },
+    "filters": {
+      "all": "All",
+      "sector": "Sector",
+      "sector_all": "All sectors",
+      "year": "Year",
+      "year_all": "All years",
+      "outcome": "Outcome",
+      "outcome_all": "All outcomes",
+      "outcome_winners": "Winners",
+      "outcome_lessons": "Stop-Loss Discipline / Lessons"
+    },
+    "chart_title": "Position Return vs Benchmark",
+    "labels": {
+      "sample_badge": "REAL POSITION",
+      "lesson_badge": "Stop-Loss Discipline",
+      "ticker": "Ticker",
+      "company": "Company",
+      "sector": "Sector",
+      "country": "Country",
+      "entry_date": "Entry",
+      "exit_date": "Sale / Exit",
+      "open_position": "Partial Sale / Open",
+      "entry_price": "Entry price",
+      "exit_price": "Exit price",
+      "return": "Return generated",
+      "benchmark": "Benchmark",
+      "alpha": "Alpha Spread",
+      "view_details": "View thesis & execution breakdown",
+      "close_modal": "Close window"
+    },
+    "modal": {
+      "title_suffix": "Investment Thesis & Execution Breakdown",
+      "tab_thesis": "Investment Thesis",
+      "tab_catalysts": "Catalysts & Risks",
+      "tab_lessons": "Risk Management & Takeaway",
+      "tab_chart": "Price Chart with Entry and Exit Points",
+      "catalysts_title": "Identified Catalysts",
+      "risks_title": "Monitored Risks",
+      "lessons_title": "Execution Discipline & Risk Control"
+    }
+  },
+  "investments": {
+    "pos-indra": {
+      "thesis": "Re-rating thesis centered on European defense modernization and aerospace IT digitalization. Structural expansion of European defense procurement, record order backlog backed by multi-year government commitments, and expanding operating leverage with higher EBIT margins.",
+      "catalysts": [
+        "Binding European commitments to lift defense expenditure toward 2% of GDP across NATO members.",
+        "Rapid monetization of key defense IT contracts in air traffic control and cyber defense systems."
+      ],
+      "risks": [
+        "Project delivery delays in complex multi-nation European defense joint ventures (e.g., FCAS).",
+        "State governance and public regulatory scrutiny impacting strategic capital allocation."
+      ],
+      "lessons_learned": "Aligning a powerful secular tailwind (European defense renewal) with clean corporate balance sheets generates over 30% alpha against market benchmarks."
+    },
+    "pos-aapl": {
+      "thesis": "Hegemonic brand pricing power, unassailable economic moat rooted in iOS ecosystem switching costs, and high-margin Services revenue expansion delivering >70% gross margins. Substantial share repurchase program funded by predictable annual Free Cash Flow.",
+      "catalysts": [
+        "Major device upgrade supercycle driven by Apple Intelligence embedded across the iOS user base.",
+        "Gross margin expansion fueled by higher-margin digital subscriptions and cloud services."
+      ],
+      "risks": [
+        "Antitrust scrutiny from the US Department of Justice and EU digital regulation on App Store fees.",
+        "Maturity in global smartphone replacement cycles across competitive markets like China."
+      ],
+      "lessons_learned": "With exceptional quality compounders, staged sales during strong market rallies secure significant gains while preserving exposure to long-term secular innovation."
+    },
+    "pos-tsm": {
+      "thesis": "Global foundry monopoly in leading-edge semiconductor nodes (<3nm). Irreplaceable manufacturing partner for Nvidia, Apple, and AMD, commanding exceptional pricing power reflected in 53%+ gross margins and consistent high return on capital.",
+      "catalysts": [
+        "Aggressive enterprise data center deployment of next-generation AI accelerators.",
+        "US CHIPS Act co-funding and geographic fab diversification across Arizona and Japan."
+      ],
+      "risks": [
+        "Geopolitical cross-strait risk and potential US-China semiconductor export restrictions.",
+        "Extremely capital-intensive capex requirements to maintain lithography leadership on 2nm nodes."
+      ],
+      "lessons_learned": "Targeting the undisputed physical bottleneck of a technological revolution (semiconductor foundry) yields superior risk-adjusted alpha compared to volatile downstream hardware manufacturers."
+    },
+    "pos-crdo": {
+      "thesis": "High-growth momentum position applying CANSLIM criteria. Key provider of high-speed SerDes optical connectivity and Active Electrical Cables (AEC) enabling GPU clustering in AI data centers with reduced power dissipation.",
+      "catalysts": [
+        "Tier-1 hyperscale cloud providers replacing optical transceivers with AECs for short-reach server racks.",
+        "Consecutive quarterly earnings surprises exceeding consensus expectations (>25% EPS growth)."
+      ],
+      "risks": [
+        "Customer concentration among a handful of major US hyperscalers.",
+        "High stock beta and volatility inherent to mid-cap growth stocks in rapid expansion phases."
+      ],
+      "lessons_learned": "The CANSLIM framework captures rapid double-digit returns in concise timeframes when accelerating revenue and EPS coincide with heavy institutional volume accumulation."
+    },
+    "pos-ko": {
+      "thesis": "Classic Value thesis: inelastic consumer demand, unrivaled global distribution, and demonstrated pricing power to pass through commodity cost inflation without compromising unit volume. Negligible solvency risk and stable dividend yield.",
+      "catalysts": [
+        "Market share gains across emerging markets and favorable product mix shifting to zero-sugar beverages.",
+        "Relative valuation outperformance in periods of macro uncertainty and elevated benchmark interest rates."
+      ],
+      "risks": [
+        "Packaging input cost spikes (aluminum and PET resin).",
+        "Adverse emerging market currency depreciation impacting reported consolidated revenues."
+      ],
+      "lessons_learned": "Defensive equities provide essential portfolio ballast and downside protection, enabling capital preservation and exit with healthy gains when higher-beta growth opportunities emerge."
+    },
+    "pos-meta": {
+      "thesis": "Value and CANSLIM combination: re-acceleration of double-digit advertising revenues, disciplined operating cost containment, and AI-driven ad performance delivering operating margin expansion.",
+      "catalysts": [
+        "Increased return on ad spend (ROAS) driven by AI predictive ranking and recommendation systems.",
+        "Monetization growth across WhatsApp business messaging and Click-to-Message ad units."
+      ],
+      "risks": [
+        "Capital expenditure intensity in custom computing silicon and longer-term metaverse R&D.",
+        "Antitrust litigation and user privacy regulatory developments in major jurisdictions."
+      ],
+      "lessons_learned": "In megacap tech, operating margin inflection combined with substantial share repurchases creates favorable asymmetric setups to capture high-probability double-digit returns."
+    },
+    "pos-be": {
+      "thesis": "Tactical growth setup in clean energy and on-site solid oxide fuel cell power generation. Technical momentum exhaustion and volume deceleration triggered a disciplined closing of the position.",
+      "catalysts": [
+        "Surging demand for uninterrupted baseload power in AI data centers.",
+        "Commercial microgrid supply agreements across industrial clients."
+      ],
+      "risks": [
+        "Capital expenditure intensity and fluctuating operating margins.",
+        "Commercial adoption lag in hydrogen power infrastructure."
+      ],
+      "lessons_learned": "Risk control discipline: detecting volume weakness prompted a tight exit with a minimal loss (-3.21%), validating the principle that cutting small losses quickly safeguards overall portfolio capital."
+    },
+    "pos-exi2": {
+      "thesis": "Broad-based mega-cap indexed exposure across the 50 largest global companies. A tactical divestment was executed to reallocate capital into high-conviction individual equity ideas (Indra and Apple).",
+      "catalysts": [
+        "Sustained operating profit expansion across global tech and healthcare titans.",
+        "Macro resilience in global enterprise and consumer spending."
+      ],
+      "risks": [
+        "Heightened sensitivity to benchmark monetary policy interest rate adjustments.",
+        "Opportunity cost relative to high-conviction single-stock opportunities."
+      ],
+      "lessons_learned": "Agile capital reallocation: exiting with a controlled tactical loss (-12.26%) unlocked liquidity to concentrate the portfolio in leaders with clear double-digit catalysts."
+    },
+    "pos-msft": {
+      "thesis": "Enterprise cloud leadership through Azure and integration of generative AI into business workflows. However, elevated valuation multiples and accelerating AI capital expenditure signaled a need for disciplined risk control.",
+      "catalysts": [
+        "Copilot enterprise license monetization across Microsoft 365 commercial seats.",
+        "Azure revenue growth outpacing consensus estimates."
+      ],
+      "risks": [
+        "Return on invested capital compression from record AI data center capital expenditures.",
+        "Technical momentum exhaustion as price action broke below key moving averages."
+      ],
+      "lessons_learned": "CANSLIM risk management rule: honoring the 7-8% stop-loss threshold protected the portfolio against subsequent deeper drawdowns. In professional asset management, promptly recognizing momentum breakdowns preserves capital for higher-conviction ideas."
+    }
+  },
+  "methodology": {
+    "title": "Investment Methodology",
+    "subtitle": "Two Complementary Frameworks",
+    "lead": "The investment strategy combines two battle-tested philosophies into a balanced, institutional approach:",
+    "value_title": "1. Value Investing (Fundamental Analysis & Margin of Safety)",
+    "value_subtitle": "Strict capital preservation and intrinsic valuation powered by accounting rigor",
+    "value_pillars": [
+      {
+        "title": "Accounting Scrutiny & Earnings Quality",
+        "desc": "Thorough audit of the three financial statements under IFRS/GAAP: fixed asset impairment, revenue recognition (IFRS 15), lease liabilities (IFRS 16), and reconciliation of Free Cash Flow against reported EBITDA."
+      },
+      {
+        "title": "Intrinsic Valuation & Discounted Cash Flows (DCF)",
+        "desc": "Disciplined financial modeling incorporating macroeconomic sensitivity scenarios, normalized mid-cycle operating margins, and conservative discount rates."
+      },
+      {
+        "title": "Durable Competitive Advantages (Economic Moats)",
+        "desc": "Targeting businesses with sustained high returns on capital employed (ROCE/ROIC > 15%), documented pricing power, and conservative balance sheets (Net Debt / EBITDA < 1.5x)."
+      },
+      {
+        "title": "Demanding Margin of Safety",
+        "desc": "Initiating positions strictly when current market prices offer a substantial discount to estimated intrinsic value, protecting capital against forecasting error."
+      }
+    ],
+    "canslim_title": "2. CANSLIM (Systematic Growth & Institutional Momentum)",
+    "canslim_subtitle": "Identifying market leaders backed by accelerating earnings and institutional sponsorship",
+    "canslim_items": [
+      {
+        "letter": "C",
+        "name": "Current Quarterly Earnings",
+        "desc": "Quarterly earnings per share (EPS) acceleration exceeding 20-25% year-over-year, supported by robust revenue growth."
+      },
+      {
+        "letter": "A",
+        "name": "Annual Earnings Growth",
+        "desc": "Compound annual earnings expansion over the past 3 to 5 years, verifying operational scalability."
+      },
+      {
+        "letter": "N",
+        "name": "New Product, Service or Highs",
+        "desc": "Disruptive catalysts: innovative product rollouts, leadership enhancements, or breakouts into new market highs."
+      },
+      {
+        "letter": "S",
+        "name": "Supply and Demand",
+        "desc": "Volume accumulation on upward moves paired with disciplined floating share counts."
+      },
+      {
+        "letter": "L",
+        "name": "Leader or Laggard",
+        "desc": "Selecting the undisputed industry leader demonstrating superior Relative Strength compared to sector peers."
+      },
+      {
+        "letter": "I",
+        "name": "Institutional Sponsorship",
+        "desc": "High-quality institutional accumulation by premier mutual funds and institutional managers."
+      },
+      {
+        "letter": "M",
+        "name": "Market Direction & Stop-Loss",
+        "desc": "Aligning exposure with broad market trends and enforcing an uncompromising 7-8% stop-loss discipline."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Competencies",
+    "subtitle": "Core Capabilities",
+    "hard_title": "Financial & Quantitative Analysis",
+    "hard_items": [
+      "Financial Audit & Review under IFRS / EU-IFRS and Spanish GAAP (IFRS 9, 15, and 16)",
+      "Advanced Financial Modeling, DCF Valuation, Trading Multiples & LBO Fundamentals",
+      "Accounting Scrutiny, CAPEX Allocation Review & Earnings Quality Evaluation",
+      "Cash Flow Statement Reconciliation, Working Capital Analysis & Internal Controls",
+      "Technical Tools: Bloomberg Terminal, Excel (Scenario Modeling), Python & AI Automation"
+    ],
+    "soft_title": "Investment Judgment & Professional Discipline",
+    "soft_items": [
+      "Capital Preservation Philosophy and Disciplined Exit Rules (Value + CANSLIM)",
+      "Technical Dialogue and Scrutiny with CFOs, Finance Directors, and Investment Committees",
+      "Hands-on Due Diligence and Financial Risk Assessment on Energy & Private Equity Deals",
+      "Independent Analytical Judgment to Uncover Accounting and Market Distortions",
+      "Strategic Perspective on Corporate Transactions, Debt Issuance, and Capital Markets"
+    ]
+  },
+  "research": {
+    "title": "Undergraduate Thesis & Empirical Research",
+    "subtitle": "Econometric Investigation",
+    "tfg_badge": "Undergraduate Thesis (UAM)",
+    "tfg_title": "Cryptocurrencies as a Hedge Against Inflation: An Empirical Analysis with Panel Data and Time Series (2017–2024)",
+    "tfg_meta": "Author: Samuel Felipe Marín Muñoz | Advisor: Marta Felis Rota | Universidad Autónoma de Madrid (Faculty of Economics and Business)",
+    "abstract_title": "Executive Summary of the Thesis",
+    "abstract_text": "Empirical econometric study evaluating whether cryptoassets (with focus on Bitcoin) function as a viable hedge and store of value against inflationary shocks and global macro uncertainty, benchmarked against traditional safe havens such as gold and sovereign debt. The paper investigates a multi-variable dataset of 211 countries across 2017–2024 combining World Bank and Statista data.",
+    "methodology_title": "Econometric Methodology",
+    "methodology_items": [
+      "Fixed Effects Panel Data Regressions controlling for unobserved country and year fixed effects.",
+      "Ordinary Least Squares (OLS) estimation and ARIMA time-series models addressing seasonality.",
+      "Winsorization of inflation data at 1st and 99th percentiles to eliminate distortion from extreme outliers.",
+      "Global sample segmentation by median GDP per capita (High vs. Low GDP nations) and mathematical interaction between Inflation and GDP."
+    ],
+    "conclusions_title": "Key Research Conclusions",
+    "conclusions_items": [
+      "In high GDP per capita economies, the interaction between inflation and income is positive and statistically significant (p<0.01), showing cryptoassets serve as an inflation hedge under specific macroeconomic conditions.",
+      "Technological infrastructure (secure internet servers) and digital access are significantly stronger adoption drivers than inflation rates alone.",
+      "In developing economies, cryptocurrencies do not displace gold or sovereign debt as safe havens, but rather act as transactional alternatives where traditional financial infrastructure is absent.",
+      "Gold maintains demonstrated long-term empirical superiority as the premier safe haven, whereas cryptoasset volatility and macro sensitivity currently constrain its equivalence."
+    ]
+  },
+  "experience": {
+    "title": "Experience & Education",
+    "subtitle": "Professional Background",
+    "items": [
+      {
+        "period": "November 2026 – December 2027",
+        "status_badge": "In progress",
+        "role": "Master in Financial Markets and Asset Management",
+        "institution": "Instituto de Estudios Bursátiles (IEB) — Madrid, Spain",
+        "description": "Postgraduate program specializing in portfolio management, equity and fixed income valuation, derivatives, macroeconomics, financial modeling, investment strategies, and investment banking."
+      },
+      {
+        "period": "January 2025 – Present",
+        "status_badge": "Current role",
+        "role": "Financial Audit Senior",
+        "institution": "Ernst & Young (EY) — Audit & Assurance (Madrid, Spain)",
+        "description": "Financial audit of energy sector clients and Private Equity portfolio companies (including Verbund Group and Shell). Scrutiny of fixed assets, financial instruments, CAPEX allocation, and revenue recognition. Audit of separate and consolidated financial statements under EU-IFRS and Spanish GAAP, internal controls review, and Due Diligence support."
+      },
+      {
+        "period": "October 2025",
+        "status_badge": "Joint program",
+        "role": "EY-ICADE Financial Competencies and Accounting Program",
+        "institution": "Universidad Pontificia Comillas ICAI-ICADE — Madrid, Spain",
+        "description": "High-level qualification program focusing on advanced financial competencies and technical accounting applied to the corporate environment."
+      },
+      {
+        "period": "January 2024 – October 2026",
+        "status_badge": "Corporate advisory",
+        "role": "Financial Consultant (Freelance)",
+        "institution": "Marín Ortega Consultores Jurídicos — Bogotá, Colombia",
+        "description": "Financial advisory and corporate planning for a boutique legal firm. Development of financial models (cash flow projections and business plans), capital structure optimization, and value creation analysis across client portfolios."
+      },
+      {
+        "period": "September 2021 – June 2025",
+        "status_badge": "Undergraduate degree",
+        "role": "Bachelor's Degree in Economics",
+        "institution": "Universidad Autónoma de Madrid (UAM) — Madrid, Spain",
+        "description": "Comprehensive foundation in microeconomics, quantitative macroeconomics, econometrics, and financial market theory. Financial Statement Analysis, Industrial Organization, and Undergraduate Thesis focused on econometric modeling of assets against inflation."
+      },
+      {
+        "period": "February 2023 – June 2024",
+        "status_badge": "Consulting internship",
+        "role": "Financial Consulting Intern",
+        "institution": "Diseños Resta S.L — Madrid, Spain",
+        "description": "Financial analysis and management for a portfolio of 15 companies. Performance benchmarking, IFRS compliance, tax filing, and fiscal year-end closing audits."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Direct Inquiries",
+    "lead": "Available for professional discussions with asset management firms, investment funds, and fundamental equity research teams in Spain and internationally.",
+    "email_label": "Email",
+    "phone_label": "Direct Telephone",
+    "linkedin_label": "LinkedIn Profile",
+    "location_label": "Location",
+    "location_val": "Madrid, Spain (Open to relocation)",
+    "form_name": "Full name",
+    "form_email": "Email address",
+    "form_subject": "Subject",
+    "form_message": "Message",
+    "form_submit": "Send message via email client",
+    "direct_email_hint": "Or reach out directly at:"
+  },
+  "footer": {
+    "disclaimer": "Past performance is no guarantee of future results. All content on this website is strictly for informational purposes and does not constitute an offer, solicitation, or investment advice.",
+    "rights": "All rights reserved."
+  }
+}

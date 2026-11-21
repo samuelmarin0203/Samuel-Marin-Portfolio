@@ -1,0 +1,201 @@
+[
+  {
+    "id": "pos-indra",
+    "is_sample": false,
+    "ticker": "IDA1.MC",
+    "company": "Indra Sistemas S.A.",
+    "sector": "Defensa & Tecnología",
+    "country": "España",
+    "entry_date": "2025-07-29",
+    "exit_date": "2025-10-30",
+    "entry_price": 36.28,
+    "exit_price": 49.44,
+    "return_pct": 36.27,
+    "benchmark": "IBEX 35",
+    "benchmark_return_pct": 4.82,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2025-07", "price": 36.28},
+      {"date": "2025-08", "price": 39.50},
+      {"date": "2025-09", "price": 43.10},
+      {"date": "2025-10", "price": 49.44}
+    ]
+  },
+  {
+    "id": "pos-aapl",
+    "is_sample": false,
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "sector": "Tecnología de Consumo",
+    "country": "Estados Unidos",
+    "entry_date": "2025-07-28",
+    "exit_date": "2026-06-11",
+    "entry_price": 213.60,
+    "exit_price": 293.67,
+    "return_pct": 37.49,
+    "benchmark": "S&P 500",
+    "benchmark_return_pct": 13.80,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2025-07", "price": 213.60},
+      {"date": "2025-10", "price": 235.00},
+      {"date": "2026-01", "price": 268.96},
+      {"date": "2026-04", "price": 271.20},
+      {"date": "2026-06", "price": 293.67}
+    ]
+  },
+  {
+    "id": "pos-tsm",
+    "is_sample": false,
+    "ticker": "TSM",
+    "company": "Taiwan Semiconductor Manufacturing Co.",
+    "sector": "Semiconductores",
+    "country": "Taiwán / Global",
+    "entry_date": "2026-03-05",
+    "exit_date": "2026-10-05",
+    "entry_price": 348.50,
+    "exit_price": 478.00,
+    "return_pct": 37.16,
+    "benchmark": "S&P 500",
+    "benchmark_return_pct": 8.60,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2026-03", "price": 348.50},
+      {"date": "2026-04", "price": 392.10},
+      {"date": "2026-06", "price": 440.00},
+      {"date": "2026-09", "price": 445.32},
+      {"date": "2026-10", "price": 478.00}
+    ]
+  },
+  {
+    "id": "pos-crdo",
+    "is_sample": false,
+    "ticker": "CRDO",
+    "company": "Credo Technology Group",
+    "sector": "Conectividad Óptica & IA",
+    "country": "Estados Unidos",
+    "entry_date": "2026-08-05",
+    "exit_date": "2026-08-13",
+    "entry_price": 235.66,
+    "exit_price": 278.07,
+    "return_pct": 18.00,
+    "benchmark": "Nasdaq 100",
+    "benchmark_return_pct": 1.20,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2026-08-05", "price": 235.66},
+      {"date": "2026-08-08", "price": 254.20},
+      {"date": "2026-08-11", "price": 269.80},
+      {"date": "2026-08-13", "price": 278.07}
+    ]
+  },
+  {
+    "id": "pos-meta",
+    "is_sample": false,
+    "ticker": "META",
+    "company": "Meta Platforms Inc.",
+    "sector": "Plataformas Digitales",
+    "country": "Estados Unidos",
+    "entry_date": "2025-10-30",
+    "exit_date": "2026-09-22",
+    "entry_price": 659.77,
+    "exit_price": 731.00,
+    "return_pct": 10.80,
+    "benchmark": "S&P 500",
+    "benchmark_return_pct": 5.40,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2025-10", "price": 659.77},
+      {"date": "2026-01", "price": 680.50},
+      {"date": "2026-05", "price": 705.00},
+      {"date": "2026-09", "price": 731.00}
+    ]
+  },
+  {
+    "id": "pos-ko",
+    "is_sample": false,
+    "ticker": "KO",
+    "company": "The Coca-Cola Company",
+    "sector": "Consumo Defensivo",
+    "country": "Estados Unidos",
+    "entry_date": "2025-07-24",
+    "exit_date": "2026-05-08",
+    "entry_price": 70.28,
+    "exit_price": 78.79,
+    "return_pct": 12.11,
+    "benchmark": "S&P 500",
+    "benchmark_return_pct": 7.30,
+    "outcome": "ganadora",
+    "price_history": [
+      {"date": "2025-07", "price": 70.28},
+      {"date": "2025-10", "price": 70.50},
+      {"date": "2026-01", "price": 73.18},
+      {"date": "2026-03", "price": 75.60},
+      {"date": "2026-05", "price": 78.79}
+    ]
+  },
+  {
+    "id": "pos-be",
+    "is_sample": false,
+    "ticker": "BE",
+    "company": "Bloom Energy Corporation",
+    "sector": "Transición Energética",
+    "country": "Estados Unidos",
+    "entry_date": "2025-09-17",
+    "exit_date": "2025-09-22",
+    "entry_price": 77.33,
+    "exit_price": 74.85,
+    "return_pct": -3.21,
+    "benchmark": "S&P Clean Energy",
+    "benchmark_return_pct": -1.10,
+    "outcome": "perdedora",
+    "price_history": [
+      {"date": "2025-09-17", "price": 77.33},
+      {"date": "2025-09-19", "price": 76.10},
+      {"date": "2025-09-22", "price": 74.85}
+    ]
+  },
+  {
+    "id": "pos-exi2",
+    "is_sample": false,
+    "ticker": "EXI2.DE",
+    "company": "iShares Global Titans 50",
+    "sector": "Megacaps Globales",
+    "country": "Alemania / Global",
+    "entry_date": "2025-02-03",
+    "exit_date": "2025-04-01",
+    "entry_price": 92.59,
+    "exit_price": 81.24,
+    "return_pct": -12.26,
+    "benchmark": "MSCI World",
+    "benchmark_return_pct": -0.80,
+    "outcome": "perdedora",
+    "price_history": [
+      {"date": "2025-02", "price": 92.59},
+      {"date": "2025-03", "price": 87.10},
+      {"date": "2025-04", "price": 81.24}
+    ]
+  },
+  {
+    "id": "pos-msft",
+    "is_sample": false,
+    "ticker": "MSFT",
+    "company": "Microsoft Corporation",
+    "sector": "Software & Cloud",
+    "country": "Estados Unidos",
+    "entry_date": "2025-08-29",
+    "exit_date": "2025-12-22",
+    "entry_price": 508.49,
+    "exit_price": 483.21,
+    "return_pct": -4.97,
+    "benchmark": "S&P 500",
+    "benchmark_return_pct": 1.10,
+    "outcome": "perdedora",
+    "price_history": [
+      {"date": "2025-08", "price": 508.49},
+      {"date": "2025-10", "price": 544.46},
+      {"date": "2025-11", "price": 520.10},
+      {"date": "2025-12", "price": 483.21}
+    ]
+  }
+]
