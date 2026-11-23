@@ -114,6 +114,8 @@ const App = {
     if (cvLink) {
       const cvFile = lang === "es" ? this.config.cv_file_es : this.config.cv_file_en;
       cvLink.href = cvFile || "assets/cv-samuel-marin-es.pdf";
+      cvLink.setAttribute("download", lang === "es" ? "CV_Samuel_Marin_ES.pdf" : "CV_Samuel_Marin_EN.pdf");
+      cvLink.setAttribute("target", "_blank");
     }
 
     // Phone link & text
